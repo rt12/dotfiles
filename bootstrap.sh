@@ -1,3 +1,3 @@
 #!/bin/sh
-curl -fLo .vim/colors/deus.vim --create-dirs https://raw.githubusercontent.com/ajmwagar/vim-deus/master/colors/deus.vim
-curl -fLo .vim/colors/solarized.vim --create-dirs https://raw.githubusercontent.com/altercation/vim-colors-solarized/master/colors/solarized.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+cp .vimrc ~
